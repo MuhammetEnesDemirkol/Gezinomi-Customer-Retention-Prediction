@@ -1,0 +1,1 @@
+# Gezinomi-Veri-Analizi-Kural-Tabanli-Musteri-Getirisi

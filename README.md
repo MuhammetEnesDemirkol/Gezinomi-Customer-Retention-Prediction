@@ -21,8 +21,8 @@ Follow these steps to run the project locally:
 
 - Clone the Repository:
     ```bash
-    git clone https://github.com/MuhammetEnesDemirkol/Gezinomi-Veri-Analizi-Kural-Tabanli-Musteri-Getirisi
-    cd Gezinomi-Veri-Analizi-Kural-Tabanli-Musteri-Getirisi
+        git clone https://github.com/MuhammetEnesDemirkol/Gezinomi-Customer-Retention-Prediction
+        cd Gezinomi-Customer-Retention-Prediction
     ```
 
 - Install Required Python Packages:

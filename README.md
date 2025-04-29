@@ -1,53 +1,68 @@
-# Gezinomi-Veri-Analizi-Kural-Tabanli-Musteri-Getirisi
+# 📌 Rule-Based Customer Revenue Estimation with Gezinomi Data
 
-Bu projede, Gezinomi şirketine ait gerçek veriler kullanılarak, kural tabanlı sınıflandırma yöntemiyle potansiyel müşteri getirisi hesaplama çalışması gerçekleştirilmiştir. Proje, veri ön işleme, keşifsel veri analizi, görselleştirme ve kural tabanlı sınıflandırma adımlarını içermektedir.
+## 📖 Project Description
+In this project, real-world data from Gezinomi company was used to estimate potential customer revenue through a rule-based classification method. The project includes steps such as data preprocessing, exploratory data analysis, visualization, and rule-based classification.
 
-Bu projede, müşteri verileri üzerinde gerçekleştirilen analizler sonucunda, belirlenen kurallar çerçevesinde potansiyel müşteri getirisi tahmini yapılmıştır. Amaç, eldeki veriler üzerinden müşteri segmentasyonunu optimize ederek, pazarlama stratejilerine yön verecek öngörüler elde etmektir.
+By analyzing customer data and applying predefined rules, potential customer revenue predictions were made. The main goal was to optimize customer segmentation and provide actionable insights for marketing strategies based on the available data.
 
-## Kullanılan Teknolojiler
-* Python – Programlama dili
-* Pandas & NumPy – Veri işleme ve analiz
-* Matplotlib & Seaborn – Veri görselleştirme
-* Scikit-learn – Makine öğrenmesi kütüphanesi (gerektiğinde)
-* Diğer yardımcı kütüphaneler: re, datetime vb.
+---
 
-## Kurulum
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+## 🛠️ Technologies Used
+- Python – Programming Language
+- Pandas & NumPy – Data Processing and Analysis
+- Matplotlib & Seaborn – Data Visualization
+- Scikit-learn – Machine Learning Library (when needed)
+- Other supporting libraries: re, datetime, etc.
 
-* Repo'yu Klonlayın:
+---
 
-* * git clone https://github.com/MuhammetEnesDemirkol/Gezinomi-Veri-Analizi-Kural-Tabanli-Musteri-Getirisi
-* * cd Gezinomi-Veri-Analizi-Kural-Tabanli-Musteri-Getirisi
+## 🚀 Installation
+Follow these steps to run the project locally:
 
-* Gerekli Python Paketlerini Yükleyin:
+- Clone the Repository:
+    ```bash
+    git clone https://github.com/MuhammetEnesDemirkol/Gezinomi-Veri-Analizi-Kural-Tabanli-Musteri-Getirisi
+    cd Gezinomi-Veri-Analizi-Kural-Tabanli-Musteri-Getirisi
+    ```
 
-* * pip install -r requirements.txt
+- Install Required Python Packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-* Projeyi Çalıştırın:
+- Run the Project:
+    - Open the related Jupyter Notebook or Python script to review the analysis process.
 
-* * İlgili Jupyter Notebook veya Python dosyasını çalıştırarak analiz sürecini inceleyebilirsiniz.
+---
 
-## Veri Seti
-Proje kapsamında kullanılan veri seti, Gezinomi şirketine ait gerçek müşteri verilerini içermektedir. Veriler, kişisel bilgiler ve işlem geçmişi gibi özellikleri barındırabilir. Veri seti ile ilgili gizlilik ve kullanım koşullarına dikkat edilmesi gerekmektedir.
+## 📊 Dataset
+The dataset used in this project includes real customer data from Gezinomi company. It may contain features such as personal information and transaction history. Attention should be given to confidentiality and usage conditions regarding the dataset.
 
-## Kullanım
-Proje, temel olarak aşağıdaki adımlardan oluşmaktadır:
+---
 
-* Veri Ön İşleme:
-Ham verilerin temizlenmesi, eksik değerlerin giderilmesi ve uygun formatta düzenlenmesi.
+## 🔄 Usage
+The project consists of the following main steps:
 
-* Veri Analizi ve Görselleştirme:
-Verilerin keşifsel analizi yapılarak, trendlerin ve korelasyonların görselleştirilmesi.
+- **Data Preprocessing:**
+  - Cleaning raw data, handling missing values, and organizing data in the proper format.
 
-* Kural Tabanlı Sınıflandırma:
-Belirlenen kurallar doğrultusunda, müşteri verileri sınıflandırılarak potansiyel müşteri getirisi hesaplaması.
+- **Data Analysis and Visualization:**
+  - Conducting exploratory data analysis (EDA) to identify trends and correlations.
 
-* Sonuçların Yorumlanması:
-Elde edilen sonuçların değerlendirilmesi ve iş stratejilerine yönelik çıkarımların yapılması.
+- **Rule-Based Classification:**
+  - Classifying customer data based on predefined rules to estimate potential revenue.
 
+- **Interpretation of Results:**
+  - Evaluating outcomes and deriving insights to guide business strategies.
 
-## Sonuçlar ve Çıkarımlar
-Proje sonucunda, Gezinomi verileri üzerinde yapılan kural tabanlı sınıflandırma analizi ile potansiyel müşteri getirisi tahmini gerçekleştirildi. Elde edilen öngörüler, pazarlama stratejilerinin optimize edilmesi ve müşteri segmentasyonu konularında yol gösterici olacaktır.
+---
 
-## Katkıda Bulunanlar
-Muhammet Enes DEMIRKOL – Proje geliştiricisi
+## 📈 Results and Insights
+By performing a rule-based classification analysis on Gezinomi data, potential customer revenue predictions were successfully achieved. The insights obtained will guide the optimization of marketing strategies and customer segmentation.
+
+---
+
+## 👨‍💼 Contributors
+**Muhammet Enes DEMIRKOL** – Project Developer
+
+---
